@@ -1,5 +1,5 @@
 _repo: A-Journey-Round-My-Room_62519
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Voyage autour de ma chambre. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     birthdate: 1834
     gutenberg_agent_id: '51983'
     url: http://www.gutenberg.org/2009/agents/51983
+covers:
+- cover_type: archival
+  image_path: 62519-h/images/cover.jpg
 creator:
   author:
     agent_name: Maistre, Xavier de
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31407
     wikipedia: http://en.wikipedia.org/wiki/Xavier_de_Maistre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62519#A-Journey-Round-My-Room
 gutenberg_issued: '2020-06-29'
 gutenberg_type: Text
 identifiers:
