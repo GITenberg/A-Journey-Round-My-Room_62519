@@ -1,0 +1,36 @@
+_repo: A-Journey-Round-My-Room_62519
+_version: 0.0.1
+alternative_title: Voyage autour de ma chambre. English
+contributor:
+  translator:
+    agent_name: Attwell, Henry
+    alias: H. A. (Henry Atwell)
+    birthdate: 1834
+    gutenberg_agent_id: '51983'
+    url: http://www.gutenberg.org/2009/agents/51983
+creator:
+  author:
+    agent_name: Maistre, Xavier de
+    aliases:
+    - Maistre, Xavier, comte de
+    - De Maistre, Xavier
+    birthdate: 1763
+    deathdate: 1852
+    gutenberg_agent_id: '31407'
+    url: http://www.gutenberg.org/2009/agents/31407
+    wikipedia: http://en.wikipedia.org/wiki/Xavier_de_Maistre
+description: ''
+gutenberg_issued: '2020-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: A Journey Round My Room
+url: http://www.gutenberg.org/ebooks/62519
